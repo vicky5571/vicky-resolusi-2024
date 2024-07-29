@@ -1,0 +1,6 @@
+Rencana Belajar Vicky
+
+- Belajar HTML CSS
+- Belajar Data Analysis
+  * Perbaiki projek yang sudah ada
+  * Buat projek baru
