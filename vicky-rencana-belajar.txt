@@ -8,3 +8,4 @@ Rencana Belajar Vicky
 - Perbarui CV
   * Masukkan pengalaman Fasilitator
 - Phyton
+- R
