@@ -4,3 +4,4 @@ Rencana Belajar Vicky
 - Belajar Data Analysis
   * Perbaiki projek yang sudah ada
   * Buat projek baru
+- Perbarui CV
