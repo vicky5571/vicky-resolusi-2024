@@ -3,5 +3,9 @@ Rencana Belajar Vicky
 - Belajar HTML CSS
 - Belajar Data Analysis
   * Perbaiki projek yang sudah ada
-    ^ Rice datasets
+    ^ Karir Dosen
   * Buat projek baru
+- Perbarui CV
+  * Masukkan pengalaman Fasilitator
+- Phyton
+- R
